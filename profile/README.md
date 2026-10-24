@@ -3,7 +3,16 @@
 aka **imtiyaz parvez** (イムティヤズ), github `dummy3ye`. i'm a student from bangladesh. i kinda like writing C and i'm way too into the linux kernel. i also like physics, quantum mechanics, chem, and math (integration, differentiation, linear and geometric algebra).
  
 anyways :p
- 
+
+ <div align="center">
+  <a href="https://commit-history.com/dummy3ye">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/dummy3ye?theme=dark" />
+      <img alt="dummy3ye's commit history" src="https://commit-history.com/embed/dummy3ye" />
+    </picture>
+  </a>
+</div>
+
 ## linux kernel
  
 i send patches to the kernel, mostly small fixes in drivers (wifi, media, staging). some got accepted, some are still being reviewed, and one is waiting on hardware i don't own, which is just how it goes.
@@ -13,6 +22,7 @@ everything is public on the mailing list archive:
 - [all my patches on lore.kernel.org](https://lore.kernel.org/all/?q=reza1234khan1234@gmail.com)
 - [linux kernel source tree](https://github.com/torvalds/linux) (what i'm contributing to)
 - [kernel patch docs](https://docs.kernel.org/process/submitting-patches.html) (what i learned from)
+
 ## stuff i made
  
 - [fivestagesofgrief](https://fivestagesofgrief.osky.dpdns.org): an editorial site about the five stages of grief. what i'm on right now.
